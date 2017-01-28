@@ -4,8 +4,6 @@ If you work on robotic, you sometimes need to test the behavior of your robot. B
 I used Windows 7 Service Pack 1 for my dev setup, and my algorithm was written in C++. Other setups haven't been tested but it could work using some tweaks.
 I recommend you to use a PC with a good amount of RAM (>=8Go), a quad-core CPU, and a decent GPU, because you will run 4 simultaneous programs talking to each other and one of them is Unity.
 
-[TOC]
-
 # Installation
 
 ## Prerequisites
